@@ -8,8 +8,8 @@ const SingleActivities = (props) => {
 <div className='single-activity '>
     <div>
     <img src= {img} alt=""></img>
-    <p className='text-sm font-light'>{name}</p>
-    <p className='text-sm'>Time Required: {time}</p>
+    <p className='text-sm font-bold text-left p-3'>{name}</p>
+    <p className='text-sm text-left'>Time Required: {time}</p>
     </div>
     
     <button className="btn btn-block mt-8">Add to List</button>

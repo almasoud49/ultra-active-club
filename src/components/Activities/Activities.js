@@ -1,7 +1,9 @@
 
 import React, { useEffect, useState } from 'react';
 import SingleActivities from '../SingleActivities/SingleActivities';
+import picture from '../../picture.jpg';
 import  './Activities.css';
+
 
 const Activities = () => {
     const [activities, setActivities] = useState([]);
@@ -16,7 +18,7 @@ const Activities = () => {
         className='all-activities-container'>
             
         <div className='m-10'>
-            <h2 className='m-5'>Select Your Best One</h2>
+            <h2 className='m-5 text-xl font-semibold'>Select Your Best One</h2>
         <div className="activities-container">
         
         {
@@ -30,7 +32,22 @@ const Activities = () => {
         
         <div 
         className="information-container">
-            <h4>Personal information</h4>
+        <div className="card w-full bg-base-100 shadow-xl h-full">
+        <div>
+        <div className="card card-side bg-base-100 shadow-xl">
+        <figure><img className='mr-0' src= {picture} alt=""/></figure>
+        <div className="card-body">
+        <h2 className="text-base tracking-tight ">Abdullah Al Masoud</h2>
+        <p className='text-base'>Mirpur,Dhaka</p>
+        </div>
+        </div>
+        
+
+        <div className="card-actions">
+        <button className="btn btn-block w- full">Activity Completed</button>
+        </div>
+        </div>
+        </div>
         </div>
         </div>
     );

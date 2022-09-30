@@ -3,7 +3,7 @@
       "id": "63347226623c910f9c5e164c",
       "age": "21-23",
       "img": "https://images.pexels.com/photos/999309/pexels-photo-999309.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Yoga",
+      "name": "YOGA",
       "time": "30s"
       
     },
@@ -11,7 +11,7 @@
       "id": "63347226d80e3d0e050a9859",
       "age": "21-23",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2vABxavFMgel0epwbrAtXDHBwuCQtIcefw&usqp=CAU",
-      "name": "cardio",
+      "name": "CARDIO",
       "time": "30s"
     
     },
@@ -19,7 +19,7 @@
       "id": "6334722654f6f685a21412c8",
       "age": "21-23",
       "img": "https://img.freepik.com/free-photo/bodybuilder-training-arm-with-resistance-band_7502-4758.jpg?w=740&t=st=1664424558~exp=1664425158~hmac=5208b081364ea001b9739bbccdf5b20d364d3ca2595c7dd6ee5d1636644ff934",
-      "name": "gym",
+      "name": "GYM",
       "time": "30s"
     
     },
@@ -27,7 +27,7 @@
       "id": "63347226d878816b98fb716c",
       "age": "21-23",
       "img": "https://www.tasteofhome.com/wp-content/uploads/2019/06/best-hydration-drinks_shutterstock_141520798.jpg?resize=768,512",
-      "name": "hydrate",
+      "name": "HYDRATE",
       "time": "30s"
       
     },
@@ -35,7 +35,7 @@
       "id": "63347226eea48e54660f1c98",
       "age": "21-23",
       "img": "https://konnectme.ca/wp-content/uploads/2020/06/Fitness-Blogging-2.png",
-      "name": "fitness",
+      "name": "FITNESS",
       "time": "30s"
       
     },
@@ -43,7 +43,7 @@
       "id": "633472262fb8a9f071b294c9",
       "age": "21-23",
       "img": "https://blog.nasm.org/hubfs/benefits-of-stretching.jpg",
-      "name": "stretching",
+      "name": "STRETCHING",
       "time": "30s"
       
     }
