@@ -8,3 +8,20 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+
+.personal-information{
+    display: flex;
+    background-color: gray;
+    width: 90%;
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.break-time{
+    background-color: lightgray;
+    justify-content: space-around;
+    margin: 10px;
+
+}

@@ -41,7 +41,44 @@ const Activities = () => {
         <p className='text-base'>Mirpur,Dhaka</p>
         </div>
         </div>
-        
+        <div className='personal-information mt-10'>
+            <div>
+            <p>75kg</p>
+            <p>Weight</p>
+            </div>
+            <div>
+                <p>6.5kg</p>
+                <p>Height</p>
+            </div>
+            <div>
+                <p>25yrs</p>
+                <p>Age</p>
+            </div>
+        </div>
+        <h2>Add A Break</h2>
+        <div className='break-time mt-8'>
+        <button className="btn btn-circle ml-5 mr-2">
+        10s
+        </button>
+        <button className="btn btn-circle mr-2">
+        20s
+        </button>
+        <button className="btn btn-circle mr-2">
+        30s
+        </button>
+        <button className="btn btn-circle mr-2">
+        40s
+        </button>
+        <button className="btn btn-circle">
+        50s
+        </button>
+
+        </div>
+        <h2>Exercise Details</h2>
+        <div>
+
+        </div>
+
 
         <div className="card-actions">
         <button className="btn btn-block w- full">Activity Completed</button>
