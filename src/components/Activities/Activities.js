@@ -75,8 +75,17 @@ const Activities = () => {
 
         </div>
         <h2>Exercise Details</h2>
-        <div>
-
+        <div className='bg-slate-200'>
+        <h2 className="">
+        Exercise time
+        <span className='ml-5 text-xs'>200seconds</span>
+        </h2>
+        </div>
+        <div className='bg-slate-200'>
+        <h2 className="m-5">
+        Break time
+        <span className='ml-5 text-xs'>15seconds</span>
+        </h2>
         </div>
 
 
