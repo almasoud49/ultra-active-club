@@ -1,10 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
+import AllCards from './components/AllCards/AllCards';
+import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Welcome to Physical Fitness Club</h1>
+    <div >
+      <Navbar></Navbar>
+      <AllCards></AllCards>
     </div>
   );
 }
