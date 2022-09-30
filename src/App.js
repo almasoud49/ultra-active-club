@@ -1,13 +1,14 @@
 
 import './App.css';
-import AllCards from './components/AllCards/AllCards';
-import Navbar from './components/Navbar/Navbar';
+import Activities from './components/Activities/Activities';
+import Header from './components/Header/Header';
+
 
 function App() {
   return (
     <div >
-      <Navbar></Navbar>
-      <AllCards></AllCards>
+    <Header></Header>
+    <Activities></Activities>
     </div>
   );
 }
