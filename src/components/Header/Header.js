@@ -6,8 +6,8 @@ const Header = () => {
     return (
 <div>
 <div className="navbar bg-primary">
-<img className='ml-10' src= {logo} alt = '' />
-<a className="normal-case text-3xl ml-8"> Physical Fitness Club</a>
+    <img img className='ml-10' src= {logo} alt = ''></img>
+    <a className="normal-case text-3xl ml-8"> Physical Fitness Club</a>
 </div>
 
 </div>

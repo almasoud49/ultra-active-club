@@ -1,23 +1,19 @@
 .single-activity{
     background-color: azure;
-    width: 280px;
+    width: auto;
     height: 400px;
     border: 1px solid #95A0A7;
-    padding: 5px;
     border-radius: 7px;
 }
 
 .single-activity img {
-    width: 280px;
+    width: auto;
     height: 280px;
     
 }
 
 .btn-activities{
-    width: 100%;
+    width: auto;
     height: 30px;
-    margin-bottom: 0%;
-    background-color: gray;
-    border: 1px solid royalblue;
-    color: aqua;
+    
 }
