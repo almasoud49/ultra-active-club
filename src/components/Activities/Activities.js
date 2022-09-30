@@ -90,6 +90,13 @@ const Activities = () => {
 
 
         <div className="card-actions">
+        <div className="toast toast-end">
+    <div className="alert alert-info">
+        <div>
+        <span>Thanks</span>
+        </div>
+    </div>
+    </div>
         <button className="btn btn-block w- full">Activity Completed</button>
         </div>
         </div>
